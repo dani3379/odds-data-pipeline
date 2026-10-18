@@ -1,0 +1,4 @@
+# Core statistics, tabular recording, and Parquet output.
+numpy>=1.24
+pandas>=2.0
+pyarrow>=14.0

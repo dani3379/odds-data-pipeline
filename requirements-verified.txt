@@ -1,0 +1,5 @@
+# Direct versions used for Windows / Python 3.12.4 local verification.
+numpy==2.5.4
+pandas==3.0.6
+pyarrow==26.0.0
+pytest==9.1.1

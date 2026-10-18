@@ -1,0 +1,19 @@
+# Local environments, generated analysis, and API/live data.
+.venv/
+venv/
+__pycache__/
+pytest-cache-files-*/
+*.py[cod]
+.pytest_cache/
+data/
+demo-output/
+*.db
+*.sqlite*
+*.log
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+build/
+dist/
